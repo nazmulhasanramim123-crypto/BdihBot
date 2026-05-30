@@ -1,0 +1,9 @@
+{
+  "name": "telegram-groq-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "groq-sdk": "^0.3.0",
+    "axios": "^1.6.0"
+  }
+}
